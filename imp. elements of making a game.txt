@@ -1,0 +1,46 @@
+Elements of the game
+
+* Characters
+PC(playing characters)
+NPC(non-playing character)
+
+*Goal
+
+*Rules of the game
+
+*Balancing
+not too easy 
+not too dificult
+it should be challenging
+
+*adaptivity
+
+*chance & skill
+
+*immediate feedBack
+
+*story
+ 
+
+ Case Study:Game1-tic tac toe
+*(single player game)
+PC player
+NPC computer
+*goals
+the player has to fill up a row/coloumn/diagonal before NPCto win the game
+*rules
+the PC and NPC take turns to put x or 0 on a board having 9 places in the form of three rows * three coloums
+
+*balancing
+PC and NPC are given equal turns to play the game till end
+
+*adaptivity
+the game becomes difficult to win if a opponent has put x/0 in the centre place
+*chance and skill
+the player dont no what move the opponent can make
+
+*immediate feedback
+getting the you won /you lose message
+
+*story
+can be infered 
